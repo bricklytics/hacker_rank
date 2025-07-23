@@ -1,7 +1,7 @@
 package org.example.subarraydivision
 
 /**
- * @url https://www.hackerrank.com/challenges/the-birthday-bar/problem
+ * See on [HackerHank](https://www.hackerrank.com/challenges/the-birthday-bar)
  */
 object SubArrayDivision {
 
