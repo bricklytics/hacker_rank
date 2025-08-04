@@ -13,5 +13,6 @@ The input files can be found in:
     src/main/inputfiles
 
 ### List
-- Sub Array Division | [code](https://github.com/bricklytics/hacker_rank/tree/main/HackerRank/src/main/kotlin/subarraydivision) | [problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+- Sub Array Division  | [code](https://github.com/bricklytics/hacker_rank/tree/main/HackerRank/src/main/kotlin/subarraydivision) | [problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 - Divisible Sum Pairs | [code](https://github.com/bricklytics/hacker_rank/tree/main/HackerRank/src/main/kotlin/divisiblesumpair) | [problem](https://www.hackerrank.com/challenges/divisible-sum-pairs)
+- Magic Square        | [code](https://github.com/bricklytics/hacker_rank/tree/main/HackerRank/src/main/kotlin/magicsquare) | [problem](https://www.hackerrank.com/challenges/magic-square-forming)
